@@ -11,11 +11,11 @@ from spado import Spado
 
 # Required params
 params: dict = {
-    space_name: "space_name",
-    region_name: "region_name",
-    endpoint: "endpoint",
-    spaces_key: "spaces_key",
-    spaces_secret: "space_token"
+    'space_name': "space_name",
+    'region_name': "region_name",
+    'endpoint': "endpoint",
+    'spaces_key': "spaces_key",
+    'spaces_secret': "space_token"
 }
 
 _client: Spado = Spado(**params)
