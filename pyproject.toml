@@ -3,7 +3,11 @@ name = "spado"
 version = "0.1.2"
 description = "Client simplifying and abstracting common operations for digital ocean spaces."
 authors = ["Alex Pedersen <me@alexpdr.dev>"]
+maintainers = ["Alex Pedersen <me@alexpdr.dev>"]
+repository = "https://github.com/alexpdr/spado"
 readme = "README.md"
+license = "GPL-3.0-or-later"
+
 [tool.poetry.dependencies]
 python = "^3.8"
 boto3 = "^1.13.8"
