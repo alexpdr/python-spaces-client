@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "spado"
-version = "0.1.2"
+version = "0.1.3"
 description = "Client simplifying and abstracting common operations for digital ocean spaces."
 authors = ["Alex Pedersen <me@alexpdr.dev>"]
 maintainers = ["Alex Pedersen <me@alexpdr.dev>"]
